@@ -1,6 +1,7 @@
 #Using a calculator as my first project!
 #will perform the 6 operation(addition, subtraction, multiplication, division, modulo, and square) from a simple menu taking user input
 
+
 print("Hello World to my calculator!")
 print("")
 #Store input numbers as a float in a list and makes the user repeat the input if not a number
@@ -248,8 +249,8 @@ def six_op_menu():
     else:
         return print("\nexiting")
 
-
 six_op_menu()
+
 
 #current status:
 #main menu: WIP, implemented features work
@@ -261,8 +262,8 @@ six_op_menu()
 #square: functional
 #swap numbers: functional
 #store last result: wip
-#wipe the oldest result past 10: wip
+#wipe the oldest result past 10: cancelled
 #possible second menu to perform further math on the result numbers: not started
+#create a graph maker: wip/learning
 
-#Current problems: clean up return functions to prepare for storing th results
-#                  )
+#Current problems:
